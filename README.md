@@ -1,10 +1,16 @@
 🎯 Visualization Tool for Electric Vehicle Charge & Range Analysis
 — A comprehensive EV data visualization platform using Tableau for global and Indian markets.
 
-1. 📌 Project Overview
-— Develops interactive dashboards to analyze EV charging behavior, range, efficiency, pricing, and tech trends (LTVIP2025TMID50379).
+📌 Project Overview
+— Develops interactive dashboards to analyze EV charging behavior, range, efficiency, pricing, and tech trends (LTVIP2025TMID50379). 
+github.com
++6
+github.com
++6
+github.com
++6
 
-2. 🎯 Objectives
+🎯 Objectives
 — Key goals:
 
 Analyze how range, acceleration, and efficiency affect EV pricing
@@ -15,40 +21,56 @@ Contrast global EV trends with Indian market behaviors
 
 Provide actionable insights through data-driven visuals
 
-Offer intuitive, interactive dashboards for users
+Offer intuitive, interactive dashboards for users 
+github.com
+github.com
++1
+github.com
++1
 
-3. 🔍 Key Visualizations
+🔍 Key Visualizations
 — Dashboards include:
 
-Market Overview: Avg range (347 km), price (€52K), ~95 models
+#	Visualization	Description
+1	Market Overview	Avg range (347 km), price (€52K), ~95 models analyzed 
+github.com
+2	Performance vs Pricing	Scatterplot (price vs range by brand); efficiency heatmap
+3	Technology & Features	Rapid‑charge share (~89% premium); powertrains; plug types
+4	Market Segmentation	Brand share treemaps; body-style vs price vs region
+5	Efficiency & Sustainability	Range box plots by powertrain; acceleration vs top speed; efficiency tiers (<170 Wh/km “Excellent”, 170–200 Wh/km “Good”)
 
-Performance vs Pricing: Price vs range scatterplot + efficiency heatmap
-
-Technology & Features: Rapid charge share (~89%), powertrains, plug types
-
-Market Segmentation: Brand share treemaps; body style × price × region
-
-Efficiency & Sustainability: Range box plots, acceleration vs speed, efficiency tiers
-
-4. 👍 Advantages
+👍 Advantages
 — Standout benefits:
 
 User-friendly & interactive; no coding required
 
 Comprehensive coverage: charging data, range, tech, pricing, efficiency, segmentation
 
-Supports both global and India-specific EV comparisons
+Supports both global and India-specific EV comparisons 
+github.com
++4
+smartinternz.com
++4
+sciencedirect.com
++4
+nrel.gov
++12
+github.com
++12
+github.com
++12
 
-5. 👎 Disadvantages
+👎 Disadvantages
 — Key limitations:
 
 Accuracy dependent on data quality
 
 Static visualizations without real-time data integration
 
-Lacks advanced predictive analytics without external ML tools
+Lacks advanced predictive analytics without external ML tools 
+github.com
 
-6. 🚀 Future Scope
+🚀 Future Scope
 — Enhancement opportunities:
 
 Add ML-driven predictive modeling
@@ -59,32 +81,72 @@ Monitor battery lifecycle and degradation trends
 
 Include CO₂ savings and environmental impact metrics
 
-Optimize dashboards for mobile and tablet devices
+Optimize dashboards for mobile and tablet devices 
+tekmindz.com
++15
+github.com
++15
+github.com
++15
+studocu.com
++3
+github.com
++3
+github.com
++3
 
-7. 🛠 Tools & Technologies
+🛠 Tools & Technologies
 — Tech stack overview:
 
-Tableau Public/Desktop – Dashboard creation
+Tableau Public/Desktop – Dashboard creation 
+nrel.gov
++14
+github.com
++14
+github.com
++14
 
-Excel / CSV – Data preparation and cleanup
+Excel / CSV – Data preparation and cleanup 
+github.com
 
 GitHub – Version control and collaboration
 
-Statistical methods – Calculations for range, efficiency, pricing, and comparisons
+Statistical methods – Calculations for range, efficiency, pricing, and comparisons 
+studocu.com
++3
+github.com
++3
+github.com
++3
 
-8. 📈 Key Insights
+📈 Key Insights
 — Top takeaways:
 
-Tesla leads in average range (~347 km)
+Tesla leads in long-range EVs (avg. ~445 km) 
+github.com
++1
+github.com
++1
 
-Premium segment: ~89% support rapid charging
+Premium segment: ~89% support rapid charging 
+github.com
 
 AWD powertrains: better performance, slightly lower efficiency
 
-Efficiency tiers: <170 Wh/km (Excellent), 170–200 Wh/km (Good)
+Efficiency tiers: <170 Wh/km (Excellent), 170–200 Wh/km (Good) 
+github.com
++4
+github.com
++4
+sciencedirect.com
++4
 
-Significant price-range variation differentiates brands and regions
+Significant price-range variation differentiates brands & regions 
+github.com
++1
+github.com
++1
 
-9. 🧾 Conclusion
+🧾 Conclusion
 — Summary:
-This project translates complex EV datasets into intuitive, interactive Tableau dashboards. It spots trends like Tesla’s range dominance, rapid-charging prevalence in luxury EVs, and efficiency stratification—equipping stakeholders with actionable insights. Though real-time data and forecasting are future improvements, the current platform offers a solid, expandable foundation for EV analytics.
+This project translates complex EV market data into intuitive, interactive Tableau dashboards. It highlights critical trends—like Tesla’s range dominance, rapid-charging prevalence in luxury models, and efficiency stratification—empowering stakeholders with actionable insights. While currently lacking real-time data and advanced forecasting, the tool provides a solid foundation for future enhancements in ML analytics, telemetry-driven monitoring, and sustainability reporting.
